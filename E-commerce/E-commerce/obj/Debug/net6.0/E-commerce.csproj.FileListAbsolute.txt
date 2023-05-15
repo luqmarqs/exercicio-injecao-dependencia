@@ -1,0 +1,15 @@
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\bin\Debug\net6.0\E-commerce.exe
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\bin\Debug\net6.0\E-commerce.deps.json
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\bin\Debug\net6.0\E-commerce.runtimeconfig.json
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\bin\Debug\net6.0\E-commerce.dll
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\bin\Debug\net6.0\E-commerce.pdb
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.csproj.AssemblyReference.cache
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.AssemblyInfoInputs.cache
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.AssemblyInfo.cs
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.dll
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\refint\E-commerce.dll
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.pdb
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.genruntimeconfig.cache
+C:\Users\Lucas Marques\Documents\GitHub\exercicio-injecao-dependencia\E-commerce\E-commerce\obj\Debug\net6.0\ref\E-commerce.dll
